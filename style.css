@@ -1,0 +1,36 @@
+body{
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+    font-family: fantasy;
+}
+#timer{
+    font-size: xx-large;
+    font-family: normal;
+    color: black;
+
+}
+#score{
+    font-size: xx-large;
+    font-family: normal;
+    color: black;
+    
+}
+#label{
+    font-size: xx-large;
+    font-family: normal;
+    color: rebeccapurple;
+    
+}
+#confidence{
+    font-size: xx-large;
+    font-family: normal;
+    color: rebeccapurple;
+    
+}
+#draw{
+    font-size: xx-large;
+    font-family: normal;
+    color: red;
+    
+}
